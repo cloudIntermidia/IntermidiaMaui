@@ -526,3 +526,15 @@ F:\WSSistemas_Repo\ITM\AplicativosMUAI\Modelo_Migracao\Intermidia\obj\Debug\net9
 F:\WSSistemas_Repo\ITM\AplicativosMUAI\Modelo_Migracao\Intermidia\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
 F:\WSSistemas_Repo\ITM\AplicativosMUAI\Modelo_Migracao\Intermidia\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Settings.Abstractions.dll
 F:\WSSistemas_Repo\ITM\AplicativosMUAI\Modelo_Migracao\Intermidia\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Plugin.Settings.dll
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Intermidia.csproj.AssemblyReference.cache
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+F:\WSSistemas_Repo\ITM\IntermidiaMaui\Intermidia\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Intermidia.GeneratedMSBuildEditorConfig.editorconfig

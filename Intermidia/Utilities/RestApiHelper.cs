@@ -1,6 +1,6 @@
 using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using Intermidia.Services;
 using Newtonsoft.Json;
+using Plugin.Connectivity;
 using System.Diagnostics;
 using System.Net.Http.Headers;
 

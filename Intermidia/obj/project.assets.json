@@ -2,6 +2,36 @@
   "version": 3,
   "targets": {
     "net9.0-android35.0": {
+      "Acr.UserDialogs/9.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AndHUD": "2.1.0",
+          "Xamarin.Google.Android.Material": "1.9.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AndHUD/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -504,6 +534,38 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
       "Prism.Core/7.0.0.362": {
         "type": "package",
         "compile": {
@@ -654,6 +716,25 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
           }
         }
       },
@@ -2851,6 +2932,36 @@
       }
     },
     "net9.0-android35.0/android-arm64": {
+      "Acr.UserDialogs/9.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AndHUD": "2.1.0",
+          "Xamarin.Google.Android.Material": "1.9.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AndHUD/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -3353,6 +3464,38 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
       "Prism.Core/7.0.0.362": {
         "type": "package",
         "compile": {
@@ -3503,6 +3646,25 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
           }
         }
       },
@@ -5700,6 +5862,36 @@
       }
     },
     "net9.0-android35.0/android-x64": {
+      "Acr.UserDialogs/9.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AndHUD": "2.1.0",
+          "Xamarin.Google.Android.Material": "1.9.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AndHUD/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -6202,6 +6394,38 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
       "Prism.Core/7.0.0.362": {
         "type": "package",
         "compile": {
@@ -6352,6 +6576,25 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
           }
         }
       },
@@ -8549,6 +8792,36 @@
       }
     },
     "net9.0-android35.0/iossimulator-x64": {
+      "Acr.UserDialogs/9.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AndHUD": "2.1.0",
+          "Xamarin.Google.Android.Material": "1.9.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AndHUD/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -9051,6 +9324,38 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
       "Prism.Core/7.0.0.362": {
         "type": "package",
         "compile": {
@@ -9201,6 +9506,25 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
           }
         }
       },
@@ -11398,6 +11722,36 @@
       }
     },
     "net9.0-android35.0/maccatalyst-x64": {
+      "Acr.UserDialogs/9.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AndHUD": "2.1.0",
+          "Xamarin.Google.Android.Material": "1.9.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AndHUD/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -11900,6 +12254,38 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
       "Prism.Core/7.0.0.362": {
         "type": "package",
         "compile": {
@@ -12050,6 +12436,25 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
           }
         }
       },
@@ -14247,6 +14652,36 @@
       }
     },
     "net9.0-android35.0/win10-x64": {
+      "Acr.UserDialogs/9.2.2": {
+        "type": "package",
+        "dependencies": {
+          "AndHUD": "2.1.0",
+          "Xamarin.Google.Android.Material": "1.9.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Acr.UserDialogs.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AndHUD/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/AndHUD.dll": {
+            "related": ".aar;.pdb;.xml"
+          }
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -14749,6 +15184,38 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+      "Newtonsoft.Json/13.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
       "Prism.Core/7.0.0.362": {
         "type": "package",
         "compile": {
@@ -14899,6 +15366,25 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
           }
         }
       },
@@ -17125,6 +17611,15 @@
           }
         }
       },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -17680,15 +18175,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -17709,6 +18204,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -18414,6 +18925,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -19032,6 +19552,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -19051,6 +19590,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -19109,6 +19683,15 @@
           }
         }
       },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -19665,15 +20248,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -19694,6 +20277,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -20661,6 +21260,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -21323,6 +21931,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -21342,6 +21969,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -21400,6 +22062,15 @@
           }
         }
       },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -21956,15 +22627,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -21985,6 +22656,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -22952,6 +23639,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -23614,6 +24310,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -23633,6 +24348,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -23691,6 +24441,15 @@
           }
         }
       },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -24247,15 +25006,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -24276,6 +25035,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -25243,6 +26018,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -25905,6 +26689,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -25924,6 +26727,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -25982,6 +26820,15 @@
           }
         }
       },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        }
+      },
       "CommunityToolkit.Maui/11.1.1": {
         "type": "package",
         "dependencies": {
@@ -26538,15 +27385,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -26567,6 +27414,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -27534,6 +28397,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -28196,6 +29068,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -28215,6 +29106,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -28271,6 +29197,15 @@
           "lib/net9.0-ios18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -28829,15 +29764,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -28858,6 +29793,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -29819,6 +30770,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -30483,6 +31443,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -30502,6 +31481,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -30558,6 +31572,15 @@
           "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -31115,15 +32138,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -31144,6 +32167,22 @@
           },
           "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {
             "related": ".Abstractions.xml;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -31947,6 +32986,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -32557,6 +33605,38 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "WebP.Touch/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -32576,6 +33656,44 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "dependencies": {
+          "WebP.Touch": "1.0.8"
+        },
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -32632,6 +33750,15 @@
           "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -33190,15 +34317,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -33219,6 +34346,22 @@
           },
           "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {
             "related": ".Abstractions.xml;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -34201,6 +35344,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -34855,6 +36007,38 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "WebP.Touch/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -34874,6 +36058,44 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "dependencies": {
+          "WebP.Touch": "1.0.8"
+        },
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -34930,6 +36152,15 @@
           "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -35488,15 +36719,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -35517,6 +36748,22 @@
           },
           "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {
             "related": ".Abstractions.xml;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -36499,6 +37746,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -37153,6 +38409,38 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "WebP.Touch/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -37172,6 +38460,44 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "dependencies": {
+          "WebP.Touch": "1.0.8"
+        },
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -37228,6 +38554,15 @@
           "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -37786,15 +39121,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -37815,6 +39150,22 @@
           },
           "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {
             "related": ".Abstractions.xml;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -38794,6 +40145,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -39448,6 +40808,38 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "WebP.Touch/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -39467,6 +40859,44 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "dependencies": {
+          "WebP.Touch": "1.0.8"
+        },
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -39523,6 +40953,15 @@
           "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -40081,15 +41520,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -40110,6 +41549,22 @@
           },
           "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {
             "related": ".Abstractions.xml;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -41092,6 +42547,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -41746,6 +43210,38 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "WebP.Touch/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -41765,6 +43261,44 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "dependencies": {
+          "WebP.Touch": "1.0.8"
+        },
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -41821,6 +43355,15 @@
           "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -42379,15 +43922,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -42408,6 +43951,22 @@
           },
           "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {
             "related": ".Abstractions.xml;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -43384,6 +44943,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -44040,6 +45608,38 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "WebP.Touch/1.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/WebP.Touch.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -44059,6 +45659,44 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "dependencies": {
+          "WebP.Touch": "1.0.8"
+        },
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -44099,6 +45737,15 @@
           "lib/net8.0/Acr.UserDialogs.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -44907,15 +46554,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -44936,6 +46583,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -45742,6 +47405,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -46374,6 +48046,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -46393,6 +48084,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -46433,6 +48159,15 @@
           "lib/net8.0/Acr.UserDialogs.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -47180,15 +48915,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -47209,6 +48944,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -48194,6 +49945,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -48864,6 +50624,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -48883,6 +50662,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -48923,6 +50737,15 @@
           "lib/net8.0/Acr.UserDialogs.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -49670,15 +51493,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -49699,6 +51522,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -50684,6 +52523,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -51354,6 +53202,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -51373,6 +53240,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -51413,6 +53315,15 @@
           "lib/net8.0/Acr.UserDialogs.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -52160,15 +54071,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -52189,6 +54100,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -53171,6 +55098,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -53841,6 +55777,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -53860,6 +55815,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -53900,6 +55890,15 @@
           "lib/net8.0/Acr.UserDialogs.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -54647,15 +56646,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -54676,6 +56675,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -55661,6 +57676,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -56331,6 +58355,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -56350,6 +58393,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -56390,6 +58468,15 @@
           "lib/net8.0/Acr.UserDialogs.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommonServiceLocator/2.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/CommonServiceLocator.dll": {}
         }
       },
       "CommunityToolkit.Maui/11.1.1": {
@@ -57147,15 +59234,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/11.0.1": {
+      "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -57176,6 +59263,22 @@
           },
           "lib/dotnet/Plugin.Connectivity.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.pdb;.xml"
+          }
+        }
+      },
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "related": ".pdb"
           }
         }
       },
@@ -58155,6 +60258,15 @@
           }
         }
       },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
       "System.ObjectModel/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -58827,6 +60939,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/netcoreapp2.0/Plugin.Connectivity.dll": {
+            "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
       "Xam.Plugins.Settings/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -58846,6 +60977,41 @@
           },
           "lib/netstandard1.0/Plugin.Settings.dll": {
             "related": ".Abstractions.pdb;.Abstractions.xml;.deps.json;.xml"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Xamarin.FFImageLoading/2.4.11.982": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.0/FFImageLoading.Platform.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard1.0/FFImageLoading.dll": {
+            "related": ".pdb;.Platform.xml;.xml"
           }
         }
       },
@@ -58897,6 +61063,27 @@
         "readme.md"
       ]
     },
+    "AndHUD/2.1.0": {
+      "sha512": "TdnJD0ouBJzCjLeM6FDGMLaq/8pgk+UGUljwVFnieIj2bM6h7ghYsj/rEXHEX1zqQWO+K3tgq3DEfFJULUgeDg==",
+      "type": "package",
+      "path": "andhud/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "andhud.2.1.0.nupkg.sha512",
+        "andhud.nuspec",
+        "icon.png",
+        "lib/net8.0-android34.0/AndHUD.aar",
+        "lib/net8.0-android34.0/AndHUD.dll",
+        "lib/net8.0-android34.0/AndHUD.pdb",
+        "lib/net8.0-android34.0/AndHUD.xml",
+        "lib/net9.0-android35.0/AndHUD.aar",
+        "lib/net9.0-android35.0/AndHUD.dll",
+        "lib/net9.0-android35.0/AndHUD.pdb",
+        "lib/net9.0-android35.0/AndHUD.xml"
+      ]
+    },
     "BTProgressHUD/2.2.0": {
       "sha512": "RTmSkLAXxJyqBvK8e+2OOlCCZzXBAWJVsaaerGQyF7QNcNs3TS46UTrk4ajZfpZ1ZUb7BgtMfbCcNdNXuREr4Q==",
       "type": "package",
@@ -58918,6 +61105,29 @@
         "lib/net9.0-ios18.0/BTProgressHUD.xml",
         "lib/net9.0-maccatalyst18.0/BTProgressHUD.dll",
         "lib/net9.0-maccatalyst18.0/BTProgressHUD.xml"
+      ]
+    },
+    "CommonServiceLocator/2.0.7": {
+      "sha512": "deByA+/7hfPSMqaqcITTkeZhGw41qiIon5F6Q5n5EcMPeYc5hXlifIrVpPKsur4g/PuxYU6umjTx8kQMog4npw==",
+      "type": "package",
+      "path": "commonservicelocator/2.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "commonservicelocator.2.0.7.nupkg.sha512",
+        "commonservicelocator.nuspec",
+        "lib/net46/CommonServiceLocator.dll",
+        "lib/net47/CommonServiceLocator.dll",
+        "lib/net48/CommonServiceLocator.dll",
+        "lib/net5.0/CommonServiceLocator.dll",
+        "lib/net6.0/CommonServiceLocator.dll",
+        "lib/net7.0/CommonServiceLocator.dll",
+        "lib/netcoreapp1.0/CommonServiceLocator.dll",
+        "lib/netcoreapp2.0/CommonServiceLocator.dll",
+        "lib/netcoreapp3.0/CommonServiceLocator.dll",
+        "lib/netstandard1.0/CommonServiceLocator.dll",
+        "lib/netstandard2.0/CommonServiceLocator.dll",
+        "lib/netstandard2.1/CommonServiceLocator.dll"
       ]
     },
     "CommunityToolkit.Maui/11.1.1": {
@@ -61178,14 +63388,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/11.0.1": {
-      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+    "Newtonsoft.Json/13.0.4": {
+      "sha512": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.1",
+      "path": "newtonsoft.json/13.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -61194,18 +63405,17 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.1.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.13.0.4.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Plugin.Connectivity/1.0.2": {
@@ -61257,6 +63467,37 @@
         "lib/wpa81/Plugin.Connectivity.xml",
         "plugin.connectivity.1.0.2.nupkg.sha512",
         "plugin.connectivity.nuspec"
+      ]
+    },
+    "Plugin.Permissions/6.0.1": {
+      "sha512": "na/0FNhyKmSicANWZMLSM0y/FW2AvLoawX3lsvBpELwP15sdJRyuBhRKk1OQjRoNrmTIewcON1tJFyydjMGWcA==",
+      "type": "package",
+      "path": "plugin.permissions/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid10.0/Plugin.Permissions.dll",
+        "lib/monoandroid10.0/Plugin.Permissions.pdb",
+        "lib/monoandroid80/Plugin.Permissions.dll",
+        "lib/monoandroid80/Plugin.Permissions.pdb",
+        "lib/monoandroid81/Plugin.Permissions.dll",
+        "lib/monoandroid81/Plugin.Permissions.pdb",
+        "lib/monoandroid90/Plugin.Permissions.dll",
+        "lib/monoandroid90/Plugin.Permissions.pdb",
+        "lib/netstandard1.0/Plugin.Permissions.dll",
+        "lib/netstandard1.0/Plugin.Permissions.pdb",
+        "lib/netstandard2.0/Plugin.Permissions.dll",
+        "lib/netstandard2.0/Plugin.Permissions.pdb",
+        "lib/uap10.0.16299/Plugin.Permissions.dll",
+        "lib/uap10.0.16299/Plugin.Permissions.pdb",
+        "lib/uap10.0.16299/Plugin.Permissions.pri",
+        "lib/xamarinios10/Plugin.Permissions.dll",
+        "lib/xamarinios10/Plugin.Permissions.pdb",
+        "lib/xamarintvos10/Plugin.Permissions.dll",
+        "lib/xamarintvos10/Plugin.Permissions.pdb",
+        "plugin.permissions.6.0.1.nupkg.sha512",
+        "plugin.permissions.nuspec",
+        "readme.txt"
       ]
     },
     "Prism.Core/7.0.0.362": {
@@ -62776,6 +65017,7 @@
       "path": "system.diagnostics.diagnosticsource/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net46/System.Diagnostics.DiagnosticSource.dll",
@@ -63766,6 +66008,53 @@
         "ref/xamarinwatchos10/_._",
         "system.net.sockets.4.3.0.nupkg.sha512",
         "system.net.sockets.nuspec"
+      ]
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.5.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "System.ObjectModel/4.3.0": {
@@ -65752,6 +68041,88 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "WebP.Touch/1.0.8": {
+      "sha512": "dvQaAn+m7cKL6k+evUilgikvrnk2qBm/h2lduAHFYIJFaJNIk9Z8pUI09gImzVKx5leUdvtLEzcLOOZAabspTA==",
+      "type": "package",
+      "path": "webp.touch/1.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Xamarin.Mac20/WebP.Mac.dll",
+        "lib/Xamarin.Mac20/WebP.Mac.xml",
+        "lib/Xamarin.iOS10/WebP.Touch.dll",
+        "lib/Xamarin.iOS10/WebP.Touch.xml",
+        "webp.touch.1.0.8.nupkg.sha512",
+        "webp.touch.nuspec"
+      ]
+    },
+    "Xam.Plugin.Connectivity/3.2.0": {
+      "sha512": "ZV45TaBTCJg7XQNEl3fPyyJcuMMhdDEQ6BCLc/5pMuTv38M226ER0WTu5sbmba8jlliDuzeRqkRFHwrGdWAgyg==",
+      "type": "package",
+      "path": "xam.plugin.connectivity/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.xml",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.dll",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.xml",
+        "lib/UAP10/Plugin.Connectivity.XML",
+        "lib/UAP10/Plugin.Connectivity.dll",
+        "lib/UAP10/Plugin.Connectivity.pdb",
+        "lib/UAP10/Plugin.Connectivity.pri",
+        "lib/UAP10/Plugin.Connectivity/Properties/Plugin.Connectivity.rd.xml",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.pdb",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.dll",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.pdb",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.pdb",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.xml",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.dll",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.pdb",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.xml",
+        "lib/XamarinTVOS/Plugin.Connectivity.dll",
+        "lib/XamarinTVOS/Plugin.Connectivity.pdb",
+        "lib/XamarinTVOS/Plugin.Connectivity.xml",
+        "lib/net45/Plugin.Connectivity.Abstractions.dll",
+        "lib/net45/Plugin.Connectivity.Abstractions.pdb",
+        "lib/net45/Plugin.Connectivity.Abstractions.xml",
+        "lib/net45/Plugin.Connectivity.XML",
+        "lib/net45/Plugin.Connectivity.dll",
+        "lib/net45/Plugin.Connectivity.pdb",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.xml",
+        "lib/netcoreapp2.0/Plugin.Connectivity.deps.json",
+        "lib/netcoreapp2.0/Plugin.Connectivity.dll",
+        "lib/netcoreapp2.0/Plugin.Connectivity.xml",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Connectivity.deps.json",
+        "lib/netstandard1.0/Plugin.Connectivity.dll",
+        "lib/netstandard1.0/Plugin.Connectivity.pdb",
+        "lib/netstandard1.0/Plugin.Connectivity.xml",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.dll",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.pdb",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.xml",
+        "lib/tizen40/Plugin.Connectivity.deps.json",
+        "lib/tizen40/Plugin.Connectivity.dll",
+        "xam.plugin.connectivity.3.2.0.nupkg.sha512",
+        "xam.plugin.connectivity.nuspec"
+      ]
+    },
     "Xam.Plugins.Settings/3.1.1": {
       "sha512": "EQEYQJ64ZLqui5GWkLMavgqitHxwUHZHryTzUD1021UBuz1XwDSjPL45W0K4pPXjz9oKbg7YpRXKPR1luPr/5Q==",
       "type": "package",
@@ -67597,6 +69968,117 @@
         "xamarin.androidx.window.extensions.core.core.nuspec"
       ]
     },
+    "Xamarin.Essentials/1.5.2": {
+      "sha512": "qHxkrkx5jIC0X/qWhxCPZ3MuuOJm8bfCzAoUtlpOBSE4oV0JhrkTezK0A+IV+k/MeJ3zKc8FexaIXah9rlCTIw==",
+      "type": "package",
+      "path": "xamarin.essentials/1.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/monoandroid10.0/Xamarin.Essentials.dll",
+        "lib/monoandroid10.0/Xamarin.Essentials.pdb",
+        "lib/monoandroid10.0/Xamarin.Essentials.xml",
+        "lib/monoandroid80/Xamarin.Essentials.dll",
+        "lib/monoandroid80/Xamarin.Essentials.pdb",
+        "lib/monoandroid80/Xamarin.Essentials.xml",
+        "lib/monoandroid81/Xamarin.Essentials.dll",
+        "lib/monoandroid81/Xamarin.Essentials.pdb",
+        "lib/monoandroid81/Xamarin.Essentials.xml",
+        "lib/monoandroid90/Xamarin.Essentials.dll",
+        "lib/monoandroid90/Xamarin.Essentials.pdb",
+        "lib/monoandroid90/Xamarin.Essentials.xml",
+        "lib/netstandard1.0/Xamarin.Essentials.dll",
+        "lib/netstandard1.0/Xamarin.Essentials.pdb",
+        "lib/netstandard1.0/Xamarin.Essentials.xml",
+        "lib/netstandard2.0/Xamarin.Essentials.dll",
+        "lib/netstandard2.0/Xamarin.Essentials.pdb",
+        "lib/netstandard2.0/Xamarin.Essentials.xml",
+        "lib/tizen40/Xamarin.Essentials.dll",
+        "lib/tizen40/Xamarin.Essentials.pdb",
+        "lib/tizen40/Xamarin.Essentials.xml",
+        "lib/uap10.0.16299/Xamarin.Essentials.dll",
+        "lib/uap10.0.16299/Xamarin.Essentials.pdb",
+        "lib/uap10.0.16299/Xamarin.Essentials.pri",
+        "lib/uap10.0.16299/Xamarin.Essentials.xml",
+        "lib/xamarinios10/Xamarin.Essentials.dll",
+        "lib/xamarinios10/Xamarin.Essentials.pdb",
+        "lib/xamarinios10/Xamarin.Essentials.xml",
+        "lib/xamarintvos10/Xamarin.Essentials.dll",
+        "lib/xamarintvos10/Xamarin.Essentials.pdb",
+        "lib/xamarintvos10/Xamarin.Essentials.xml",
+        "lib/xamarinwatchos10/Xamarin.Essentials.dll",
+        "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
+        "lib/xamarinwatchos10/Xamarin.Essentials.xml",
+        "readme.txt",
+        "xamarin.essentials.1.5.2.nupkg.sha512",
+        "xamarin.essentials.nuspec"
+      ]
+    },
+    "Xamarin.FFImageLoading/2.4.11.982": {
+      "sha512": "M0sNIQgUPs+le6C2TS4RmZQAURnzaRVizRtnZIZ6/1//qGcEAtEXAGt/tBJz6I1zlP6XlMxq8io6b4sjFP5N9Q==",
+      "type": "package",
+      "path": "xamarin.ffimageloading/2.4.11.982",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/FFImageLoading.Platform.dll",
+        "lib/MonoAndroid10/FFImageLoading.Platform.pdb",
+        "lib/MonoAndroid10/FFImageLoading.Platform.xml",
+        "lib/MonoAndroid10/FFImageLoading.dll",
+        "lib/MonoAndroid10/FFImageLoading.pdb",
+        "lib/MonoAndroid10/FFImageLoading.xml",
+        "lib/Xamarin.Mac20/FFImageLoading.Platform.dll",
+        "lib/Xamarin.Mac20/FFImageLoading.Platform.pdb",
+        "lib/Xamarin.Mac20/FFImageLoading.Platform.xml",
+        "lib/Xamarin.Mac20/FFImageLoading.dll",
+        "lib/Xamarin.Mac20/FFImageLoading.pdb",
+        "lib/Xamarin.Mac20/FFImageLoading.xml",
+        "lib/Xamarin.iOS10/FFImageLoading.Platform.dll",
+        "lib/Xamarin.iOS10/FFImageLoading.Platform.pdb",
+        "lib/Xamarin.iOS10/FFImageLoading.Platform.xml",
+        "lib/Xamarin.iOS10/FFImageLoading.dll",
+        "lib/Xamarin.iOS10/FFImageLoading.pdb",
+        "lib/Xamarin.iOS10/FFImageLoading.xml",
+        "lib/netstandard1.0/FFImageLoading.Platform.dll",
+        "lib/netstandard1.0/FFImageLoading.Platform.xml",
+        "lib/netstandard1.0/FFImageLoading.dll",
+        "lib/netstandard1.0/FFImageLoading.pdb",
+        "lib/netstandard1.0/FFImageLoading.xml",
+        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.Platform.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.Platform.xml",
+        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.pdb",
+        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.xml",
+        "lib/tizen40/FFImageLoading.Platform.dll",
+        "lib/tizen40/FFImageLoading.Platform.pdb",
+        "lib/tizen40/FFImageLoading.Platform.xml",
+        "lib/tizen40/FFImageLoading.dll",
+        "lib/tizen40/FFImageLoading.pdb",
+        "lib/tizen40/FFImageLoading.xml",
+        "lib/uap/FFImageLoading.Platform.dll",
+        "lib/uap/FFImageLoading.Platform.pdb",
+        "lib/uap/FFImageLoading.Platform.xml",
+        "lib/uap/FFImageLoading.dll",
+        "lib/uap/FFImageLoading.pdb",
+        "lib/uap/FFImageLoading.xml",
+        "lib/win81/FFImageLoading.Platform.dll",
+        "lib/win81/FFImageLoading.Platform.pdb",
+        "lib/win81/FFImageLoading.Platform.xml",
+        "lib/win81/FFImageLoading.dll",
+        "lib/win81/FFImageLoading.pdb",
+        "lib/win81/FFImageLoading.xml",
+        "lib/wpa81/FFImageLoading.Platform.dll",
+        "lib/wpa81/FFImageLoading.Platform.pdb",
+        "lib/wpa81/FFImageLoading.Platform.xml",
+        "lib/wpa81/FFImageLoading.dll",
+        "lib/wpa81/FFImageLoading.pdb",
+        "lib/wpa81/FFImageLoading.xml",
+        "xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+        "xamarin.ffimageloading.nuspec"
+      ]
+    },
     "Xamarin.Forms/2.5.0.122203": {
       "sha512": "qg7A2IXbVV/5u9qqeiDhRMwpVEsbWKBxzeAtD0rTuntmaDB1Z7WuBg5IK2VBklJbKe2Ps8V9zBfEwgJIqPVJUw==",
       "type": "package",
@@ -68091,6 +70573,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0-android35.0": [
+      "Acr.UserDialogs >= 9.2.2",
       "CommunityToolkit.Maui >= 11.1.1",
       "CommunityToolkit.Mvvm >= 8.3.2",
       "Flunt >= 2.0.5",
@@ -68098,14 +70581,18 @@
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
       "Microsoft.NET.ILLink.Tasks >= 9.0.10",
+      "Newtonsoft.Json >= 13.0.4",
+      "Plugin.Connectivity >= 1.0.2",
       "Prism.Forms >= 7.0.0.362",
       "SQLitePCLRaw.bundle_green >= 2.1.10",
       "Syncfusion.Maui.Toolkit >= 1.0.5",
+      "Xam.Plugin.Connectivity >= 3.2.0",
       "Xam.Plugins.Settings >= 3.1.1",
       "sqlite-net-pcl >= 1.9.172"
     ],
     "net9.0-ios26.0": [
       "Acr.UserDialogs >= 9.2.2",
+      "CommonServiceLocator >= 2.0.7",
       "CommunityToolkit.Maui >= 11.1.1",
       "CommunityToolkit.Mvvm >= 8.3.2",
       "Flunt >= 2.0.5",
@@ -68113,16 +70600,20 @@
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
       "Microsoft.NET.ILLink.Tasks >= 9.0.10",
-      "Newtonsoft.Json >= 11.0.1",
+      "Newtonsoft.Json >= 13.0.4",
       "Plugin.Connectivity >= 1.0.2",
+      "Plugin.Permissions >= 6.0.1",
       "Prism.Forms >= 7.0.0.362",
       "SQLitePCLRaw.bundle_green >= 2.1.10",
       "Syncfusion.Maui.Toolkit >= 1.0.5",
+      "Xam.Plugin.Connectivity >= 3.2.0",
       "Xam.Plugins.Settings >= 3.1.1",
+      "Xamarin.FFImageLoading >= 2.4.11.982",
       "sqlite-net-pcl >= 1.9.172"
     ],
     "net9.0-maccatalyst26.0": [
       "Acr.UserDialogs >= 9.2.2",
+      "CommonServiceLocator >= 2.0.7",
       "CommunityToolkit.Maui >= 11.1.1",
       "CommunityToolkit.Mvvm >= 8.3.2",
       "Flunt >= 2.0.5",
@@ -68130,28 +70621,35 @@
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
       "Microsoft.NET.ILLink.Tasks >= 9.0.10",
-      "Newtonsoft.Json >= 11.0.1",
+      "Newtonsoft.Json >= 13.0.4",
       "Plugin.Connectivity >= 1.0.2",
+      "Plugin.Permissions >= 6.0.1",
       "Prism.Forms >= 7.0.0.362",
       "SQLitePCLRaw.bundle_green >= 2.1.10",
       "Syncfusion.Maui.Toolkit >= 1.0.5",
+      "Xam.Plugin.Connectivity >= 3.2.0",
       "Xam.Plugins.Settings >= 3.1.1",
+      "Xamarin.FFImageLoading >= 2.4.11.982",
       "sqlite-net-pcl >= 1.9.172"
     ],
     "net9.0-windows10.0.19041": [
       "Acr.UserDialogs >= 9.2.2",
+      "CommonServiceLocator >= 2.0.7",
       "CommunityToolkit.Maui >= 11.1.1",
       "CommunityToolkit.Mvvm >= 8.3.2",
       "Flunt >= 2.0.5",
       "Microsoft.Data.Sqlite.Core >= 8.0.8",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
-      "Newtonsoft.Json >= 11.0.1",
+      "Newtonsoft.Json >= 13.0.4",
       "Plugin.Connectivity >= 1.0.2",
+      "Plugin.Permissions >= 6.0.1",
       "Prism.Forms >= 7.0.0.362",
       "SQLitePCLRaw.bundle_green >= 2.1.10",
       "Syncfusion.Maui.Toolkit >= 1.0.5",
+      "Xam.Plugin.Connectivity >= 3.2.0",
       "Xam.Plugins.Settings >= 3.1.1",
+      "Xamarin.FFImageLoading >= 2.4.11.982",
       "sqlite-net-pcl >= 1.9.172"
     ]
   },
@@ -68164,11 +70662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia.csproj",
+      "projectUniqueName": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
       "projectName": "Intermidia",
-      "projectPath": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia.csproj",
+      "projectPath": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
       "packagesPath": "C:\\Users\\wagner.santos\\.nuget\\packages\\",
-      "outputPath": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\obj\\",
+      "outputPath": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -68227,6 +70725,10 @@
       "net9.0-android35.0": {
         "targetAlias": "net9.0-android",
         "dependencies": {
+          "Acr.UserDialogs": {
+            "target": "Package",
+            "version": "[9.2.2, )"
+          },
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[11.1.1, )"
@@ -68257,6 +70759,14 @@
             "version": "[9.0.10, )",
             "autoReferenced": true
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.4, )"
+          },
+          "Plugin.Connectivity": {
+            "target": "Package",
+            "version": "[1.0.2, )"
+          },
           "Prism.Forms": {
             "target": "Package",
             "version": "[7.0.0.362, )"
@@ -68268,6 +70778,10 @@
           "Syncfusion.Maui.Toolkit": {
             "target": "Package",
             "version": "[1.0.5, )"
+          },
+          "Xam.Plugin.Connectivity": {
+            "target": "Package",
+            "version": "[3.2.0, )"
           },
           "Xam.Plugins.Settings": {
             "target": "Package",
@@ -68306,6 +70820,10 @@
             "target": "Package",
             "version": "[9.2.2, )"
           },
+          "CommonServiceLocator": {
+            "target": "Package",
+            "version": "[2.0.7, )"
+          },
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[11.1.1, )"
@@ -68338,11 +70856,15 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[11.0.1, )"
+            "version": "[13.0.4, )"
           },
           "Plugin.Connectivity": {
             "target": "Package",
             "version": "[1.0.2, )"
+          },
+          "Plugin.Permissions": {
+            "target": "Package",
+            "version": "[6.0.1, )"
           },
           "Prism.Forms": {
             "target": "Package",
@@ -68356,9 +70878,17 @@
             "target": "Package",
             "version": "[1.0.5, )"
           },
+          "Xam.Plugin.Connectivity": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          },
           "Xam.Plugins.Settings": {
             "target": "Package",
             "version": "[3.1.1, )"
+          },
+          "Xamarin.FFImageLoading": {
+            "target": "Package",
+            "version": "[2.4.11.982, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",
@@ -68393,6 +70923,10 @@
             "target": "Package",
             "version": "[9.2.2, )"
           },
+          "CommonServiceLocator": {
+            "target": "Package",
+            "version": "[2.0.7, )"
+          },
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[11.1.1, )"
@@ -68425,11 +70959,15 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[11.0.1, )"
+            "version": "[13.0.4, )"
           },
           "Plugin.Connectivity": {
             "target": "Package",
             "version": "[1.0.2, )"
+          },
+          "Plugin.Permissions": {
+            "target": "Package",
+            "version": "[6.0.1, )"
           },
           "Prism.Forms": {
             "target": "Package",
@@ -68443,9 +70981,17 @@
             "target": "Package",
             "version": "[1.0.5, )"
           },
+          "Xam.Plugin.Connectivity": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          },
           "Xam.Plugins.Settings": {
             "target": "Package",
             "version": "[3.1.1, )"
+          },
+          "Xamarin.FFImageLoading": {
+            "target": "Package",
+            "version": "[2.4.11.982, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",
@@ -68481,6 +71027,10 @@
             "target": "Package",
             "version": "[9.2.2, )"
           },
+          "CommonServiceLocator": {
+            "target": "Package",
+            "version": "[2.0.7, )"
+          },
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[11.1.1, )"
@@ -68507,11 +71057,15 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[11.0.1, )"
+            "version": "[13.0.4, )"
           },
           "Plugin.Connectivity": {
             "target": "Package",
             "version": "[1.0.2, )"
+          },
+          "Plugin.Permissions": {
+            "target": "Package",
+            "version": "[6.0.1, )"
           },
           "Prism.Forms": {
             "target": "Package",
@@ -68525,9 +71079,17 @@
             "target": "Package",
             "version": "[1.0.5, )"
           },
+          "Xam.Plugin.Connectivity": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          },
           "Xam.Plugins.Settings": {
             "target": "Package",
             "version": "[3.1.1, )"
+          },
+          "Xamarin.FFImageLoading": {
+            "target": "Package",
+            "version": "[2.4.11.982, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",
@@ -68582,33 +71144,6 @@
   },
   "logs": [
     {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "O pacote 'Newtonsoft.Json' 11.0.1 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        "net9.0-ios26.0",
-        "net9.0-ios26.0/android-arm64",
-        "net9.0-ios26.0/android-x64",
-        "net9.0-ios26.0/iossimulator-x64",
-        "net9.0-ios26.0/maccatalyst-x64",
-        "net9.0-ios26.0/win10-x64",
-        "net9.0-maccatalyst26.0",
-        "net9.0-maccatalyst26.0/android-arm64",
-        "net9.0-maccatalyst26.0/android-x64",
-        "net9.0-maccatalyst26.0/iossimulator-x64",
-        "net9.0-maccatalyst26.0/maccatalyst-x64",
-        "net9.0-maccatalyst26.0/win10-x64",
-        "net9.0-windows10.0.19041",
-        "net9.0-windows10.0.19041/android-arm64",
-        "net9.0-windows10.0.19041/android-x64",
-        "net9.0-windows10.0.19041/iossimulator-x64",
-        "net9.0-windows10.0.19041/maccatalyst-x64",
-        "net9.0-windows10.0.19041/win10-x64"
-      ]
-    },
-    {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
@@ -68616,6 +71151,16 @@
       "libraryId": "Plugin.Connectivity",
       "targetGraphs": [
         "net9.0-ios26.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'WebP.Touch 1.0.8' foi restaurado usando 'Xamarin.iOS,Version=v1.0, .NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net9.0-maccatalyst26.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "WebP.Touch",
+      "targetGraphs": [
+        "net9.0-maccatalyst26.0"
       ]
     }
   ]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia.csproj": {}
+    "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj": {}
   },
   "projects": {
-    "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia.csproj": {
+    "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia.csproj",
+        "projectUniqueName": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
         "projectName": "Intermidia",
-        "projectPath": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia.csproj",
+        "projectPath": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
         "packagesPath": "C:\\Users\\wagner.santos\\.nuget\\packages\\",
-        "outputPath": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\obj\\",
+        "outputPath": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -70,6 +70,10 @@
         "net9.0-android35.0": {
           "targetAlias": "net9.0-android",
           "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            },
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[11.1.1, )"
@@ -100,6 +104,14 @@
               "version": "[9.0.10, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
             "Prism.Forms": {
               "target": "Package",
               "version": "[7.0.0.362, )"
@@ -111,6 +123,10 @@
             "Syncfusion.Maui.Toolkit": {
               "target": "Package",
               "version": "[1.0.5, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
             },
             "Xam.Plugins.Settings": {
               "target": "Package",
@@ -149,6 +165,10 @@
               "target": "Package",
               "version": "[9.2.2, )"
             },
+            "CommonServiceLocator": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[11.1.1, )"
@@ -181,11 +201,15 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.1, )"
+              "version": "[13.0.4, )"
             },
             "Plugin.Connectivity": {
               "target": "Package",
               "version": "[1.0.2, )"
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             },
             "Prism.Forms": {
               "target": "Package",
@@ -199,9 +223,17 @@
               "target": "Package",
               "version": "[1.0.5, )"
             },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
             "Xam.Plugins.Settings": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -236,6 +268,10 @@
               "target": "Package",
               "version": "[9.2.2, )"
             },
+            "CommonServiceLocator": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[11.1.1, )"
@@ -268,11 +304,15 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.1, )"
+              "version": "[13.0.4, )"
             },
             "Plugin.Connectivity": {
               "target": "Package",
               "version": "[1.0.2, )"
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             },
             "Prism.Forms": {
               "target": "Package",
@@ -286,9 +326,17 @@
               "target": "Package",
               "version": "[1.0.5, )"
             },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
             "Xam.Plugins.Settings": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -324,6 +372,10 @@
               "target": "Package",
               "version": "[9.2.2, )"
             },
+            "CommonServiceLocator": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[11.1.1, )"
@@ -350,11 +402,15 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.1, )"
+              "version": "[13.0.4, )"
             },
             "Plugin.Connectivity": {
               "target": "Package",
               "version": "[1.0.2, )"
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             },
             "Prism.Forms": {
               "target": "Package",
@@ -368,9 +424,17 @@
               "target": "Package",
               "version": "[1.0.5, )"
             },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
             "Xam.Plugins.Settings": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

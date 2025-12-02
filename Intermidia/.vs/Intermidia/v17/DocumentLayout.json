@@ -1,413 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\",
+  "WorkspaceRootPath": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pagemodels\\intermidia\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pagemodels\\intermidia\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pagemodels\\loginpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\pagemodels\\loginpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pagemodels\\loginpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\utilities\\enumerableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\enumerableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\autenticarusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\autenticarusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\utilities\\taskutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\taskutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarmarcacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarmarcacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\carrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\carrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\utilities\\restapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\restapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\wcfclientemodelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\wcfclientemodelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_cliente_empresa_tabela_preco_enviar_erp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_cliente_empresa_tabela_preco_enviar_erp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_sincronizacao_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_sincronizacao_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_endereco_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_endereco_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_marca_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_marca_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_item_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_item_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_grade_item_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_grade_item_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\wcfmodelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\wcfmodelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\wcfvalidarcupominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\wcfvalidarcupominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\relacionarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\relacionarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscartipofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscartipofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscargestaoclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscargestaoclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\gestaoclientecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\gestaoclientecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\atendimentocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\atendimentocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\clientecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\clientecommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\services\\xamarim\\serviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:services\\xamarim\\serviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\repositories\\icondicaopagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\icondicaopagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\carrinhofechamentocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\carrinhofechamentocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarcondicaopagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarcondicaopagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\tabelaprecoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\tabelaprecoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\wcfpedidomodelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\wcfpedidomodelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\marketingcommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\marketingcommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\itemcommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\itemcommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\atualizarcarrinhofechamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\atualizarcarrinhofechamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criticacarrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criticacarrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\repositories\\icarrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\icarrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\quebrarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\quebrarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\cancelarcarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\cancelarcarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\copiarcarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\copiarcarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\icommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\icommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criaratendimentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criaratendimentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscargradesitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscargradesitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criarfeedbackclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criarfeedbackclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscaritenscarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscaritenscarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_carrinho_nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_carrinho_nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarcarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarcarrinhocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\enderecocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\enderecocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarmodelocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarmodelocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\usuariocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\usuariocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\parametrossistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\parametrossistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\genericcomboresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\genericcomboresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\modelocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\modelocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\derivacaograderesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\derivacaograderesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\funcaogenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\funcaogenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\sqlitetableinfocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\sqlitetableinfocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\basemultiselected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\basemultiselected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\nivelatributoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\nivelatributoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarmarcacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarmarcacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\models\\xamarin\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:models\\xamarin\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\services\\contracts\\icatalogosortidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:services\\contracts\\icatalogosortidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\services\\contracts\\ideviceinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:services\\contracts\\ideviceinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pagemodels\\intermidia\\sincronizacaopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pagemodels\\intermidia\\sincronizacaopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_regra_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_regra_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_foto_relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_foto_relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\repositories\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\imarcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarfotorelatoriocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarfotorelatoriocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\autenticarusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\autenticarusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\repositories\\iparametrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\iparametrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\repositories\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\icommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\icommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\selecaomarcacommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\selecaomarcacommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\ifotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\ifotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\results\\carrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\carrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\managerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\managerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\services\\xamarim\\serviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:services\\xamarim\\serviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\commands\\results\\idiomacommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\idiomacommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\domain\\messages\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\messages\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\iinicializacaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\iinicializacaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\inicializacaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\inicializacaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\utilities\\restapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\restapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\intermidia\\usuario\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\intermidia\\usuario\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\intermidia\\usuario\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\intermidia\\usuario\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\controls\\projectcardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\controls\\projectcardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\intermidia\\sincronizacao\\sincronizacaopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\intermidia\\sincronizacao\\sincronizacaopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\controls\\categorychart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\controls\\categorychart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pagemodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pagemodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pagemodels\\iprojecttaskpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pagemodels\\iprojecttaskpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\pages\\intermidia\\sincronizacao\\sincronizacaopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pages\\intermidia\\sincronizacao\\sincronizacaopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\utils\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utils\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\intermidia\\infra\\datacontext\\isqliteconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\datacontext\\isqliteconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\aplicativosmuai\\modelo_migracao\\intermidia\\utilities\\projectextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\projectextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -417,927 +74,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 333,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AutenticarUsuarioCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:34:46.154Z",
+              "WhenOpened": "2025-12-02T02:49:21.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EnumerableExtension.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\EnumerableExtension.cs",
-              "RelativeDocumentMoniker": "Utilities\\EnumerableExtension.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\EnumerableExtension.cs",
-              "RelativeToolTip": "Utilities\\EnumerableExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
+              "Title": "BuscarMarcaCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:26:35.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TBT_CLIENTE_EMPRESA_TABELA_PRECO_ENVIAR_ERP.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE_EMPRESA_TABELA_PRECO_ENVIAR_ERP.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE_EMPRESA_TABELA_PRECO_ENVIAR_ERP.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE_EMPRESA_TABELA_PRECO_ENVIAR_ERP.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE_EMPRESA_TABELA_PRECO_ENVIAR_ERP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:24:24.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WcfClienteModelInput.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfClienteModelInput.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfClienteModelInput.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfClienteModelInput.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfClienteModelInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:19:56.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginPageModel.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\LoginPageModel.cs",
-              "RelativeDocumentMoniker": "PageModels\\LoginPageModel.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\LoginPageModel.cs",
-              "RelativeToolTip": "PageModels\\LoginPageModel.cs",
-              "ViewState": "AgIAADkBAAAAAAAAAAArwEwBAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:56:22.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RestApiHelper.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\RestApiHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\RestApiHelper.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\RestApiHelper.cs",
-              "RelativeToolTip": "Utilities\\RestApiHelper.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAArwF0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:58:36.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Xamarin.Android.Common.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
-              "ViewState": "AgIAAMQBAAAAAAAAAAAQwNgBAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-27T02:40:01.043Z",
+              "WhenOpened": "2025-12-02T02:46:58.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T02:09:56.371Z",
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt",
+              "ToolTip": "C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-02T02:45:49.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\Intermidia\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "PageModels\\Intermidia\\ViewModelBase.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\Intermidia\\ViewModelBase.cs",
-              "RelativeToolTip": "PageModels\\Intermidia\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:37:31.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TBT_ENDERECO_CLIENTE.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_ENDERECO_CLIENTE.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_ENDERECO_CLIENTE.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_ENDERECO_CLIENTE.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_ENDERECO_CLIENTE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:23:56.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarrinhoCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
-              "ViewState": "AgIAAKgBAAAAAAAAAIA2wLoBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:04:43.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskUtilities.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\TaskUtilities.cs",
-              "RelativeDocumentMoniker": "Utilities\\TaskUtilities.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\TaskUtilities.cs",
-              "RelativeToolTip": "Utilities\\TaskUtilities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:11:39.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TBT_MARCA_CLIENTE.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_MARCA_CLIENTE.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_MARCA_CLIENTE.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_MARCA_CLIENTE.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_MARCA_CLIENTE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:23:08.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TBT_ITEM_CARRINHO.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_ITEM_CARRINHO.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_ITEM_CARRINHO.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_ITEM_CARRINHO.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_ITEM_CARRINHO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:55:24.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TBT_GRADE_ITEM_CARRINHO.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_GRADE_ITEM_CARRINHO.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_GRADE_ITEM_CARRINHO.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_GRADE_ITEM_CARRINHO.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_GRADE_ITEM_CARRINHO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:55:58.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WcfModelResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\WcfModelResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\WcfModelResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\WcfModelResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\WcfModelResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:02:50.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TBT_SINCRONIZACAO_USUARIO.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_SINCRONIZACAO_USUARIO.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_SINCRONIZACAO_USUARIO.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_SINCRONIZACAO_USUARIO.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_SINCRONIZACAO_USUARIO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:41:30.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TBT_CARRINHO.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:54:28.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TBT_PESSOA.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_PESSOA.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_PESSOA.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_PESSOA.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_PESSOA.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:20:23.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IClienteRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IClienteRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IClienteRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IClienteRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAnwC8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:11:57.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RelacionarClienteCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\RelacionarClienteCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\RelacionarClienteCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\RelacionarClienteCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\RelacionarClienteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:19:22.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CriarClienteCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:16:42.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BuscarTipoFeedback.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarTipoFeedback.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarTipoFeedback.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarTipoFeedback.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarTipoFeedback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:16:03.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BuscarGestaoClienteCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGestaoClienteCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGestaoClienteCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGestaoClienteCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGestaoClienteCommand.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:15:10.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GestaoClienteCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\GestaoClienteCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\GestaoClienteCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\GestaoClienteCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\GestaoClienteCommandResult.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:14:39.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WcfValidarCupomInput.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfValidarCupomInput.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfValidarCupomInput.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfValidarCupomInput.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfValidarCupomInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:08:29.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BuscarClienteCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarClienteCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarClienteCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarClienteCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarClienteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:13:46.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ClienteCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ClienteCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\ClienteCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ClienteCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\ClienteCommandResult.cs",
-              "ViewState": "AgIAAOUBAAAAAAAAAAAiwAMCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:12:56.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ICondicaoPagamentoRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ICondicaoPagamentoRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\ICondicaoPagamentoRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ICondicaoPagamentoRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\ICondicaoPagamentoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:09:30.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BuscarCondicaoPagamentoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCondicaoPagamentoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCondicaoPagamentoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCondicaoPagamentoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCondicaoPagamentoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:10:42.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AtendimentoCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\AtendimentoCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\AtendimentoCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\AtendimentoCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\AtendimentoCommandResult.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:42:38.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "TabelaPrecoResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:10:04.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CarrinhoFechamentoCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoFechamentoCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoFechamentoCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoFechamentoCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoFechamentoCommandResult.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAArwDUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:06:01.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MarketingCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\MarketingCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\MarketingCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\MarketingCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\MarketingCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:07:55.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ServiceUtility.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Services\\Xamarim\\ServiceUtility.cs",
-              "RelativeDocumentMoniker": "Services\\Xamarim\\ServiceUtility.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Services\\Xamarim\\ServiceUtility.cs",
-              "RelativeToolTip": "Services\\Xamarim\\ServiceUtility.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAjwAIBAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:54:44.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ItemCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ItemCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\ItemCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ItemCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\ItemCommandResult.cs",
-              "ViewState": "AgIAAOMCAAAAAAAAAADgv/UCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:56:12.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AtualizarCarrinhoFechamentoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AtualizarCarrinhoFechamentoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AtualizarCarrinhoFechamentoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AtualizarCarrinhoFechamentoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AtualizarCarrinhoFechamentoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:04:01.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "WcfPedidoModelInput.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfPedidoModelInput.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfPedidoModelInput.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfPedidoModelInput.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\WcfPedidoModelInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:58:09.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CriticaCarrinhoCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriticaCarrinhoCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriticaCarrinhoCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriticaCarrinhoCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriticaCarrinhoCommandResult.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:05:13.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "QuebrarPedidoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\QuebrarPedidoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\QuebrarPedidoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\QuebrarPedidoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\QuebrarPedidoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:04:42.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CancelarCarrinhoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CancelarCarrinhoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CancelarCarrinhoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CancelarCarrinhoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CancelarCarrinhoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:03:32.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CopiarCarrinhoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CopiarCarrinhoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CopiarCarrinhoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CopiarCarrinhoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CopiarCarrinhoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:00:45.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\ICommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\ICommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\ICommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:02:37.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ICarrinhoRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ICarrinhoRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\ICarrinhoRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ICarrinhoRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\ICarrinhoRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAewCQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:04:16.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CriarAtendimentoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarAtendimentoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarAtendimentoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarAtendimentoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarAtendimentoCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T03:01:15.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "BuscarGradesItemCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesItemCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesItemCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesItemCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesItemCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:59:48.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "BuscarItensCarrinhoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItensCarrinhoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItensCarrinhoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItensCarrinhoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItensCarrinhoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:59:04.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "TBT_CARRINHO_NIVEL.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO_NIVEL.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO_NIVEL.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO_NIVEL.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO_NIVEL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:57:06.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ICommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\ICommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\ICommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\ICommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\ICommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:51:04.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CriarFeedbackClienteCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:03:25.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "TBT_CLIENTE.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_CLIENTE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:19:17.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "BuscarCarrinhoCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCarrinhoCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCarrinhoCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCarrinhoCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarCarrinhoCommand.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:52:47.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "EnderecoCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\EnderecoCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\EnderecoCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\EnderecoCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\EnderecoCommandResult.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T02:51:45.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ApiConfig.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\ApiConfig.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\ApiConfig.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\ApiConfig.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\ApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T03:02:06.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "ParametrosSistema.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\ParametrosSistema.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\ParametrosSistema.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\ParametrosSistema.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\ParametrosSistema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:57:38.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
               "Title": "Session.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
               "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Session.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
               "RelativeToolTip": "Intermidia\\Infra\\Domain\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:41:53.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "BuscarModeloCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarModeloCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarModeloCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarModeloCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarModeloCommand.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAIA0wBcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:47:59.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "UsuarioCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\UsuarioCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\UsuarioCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\UsuarioCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\UsuarioCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:33:45.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ModeloCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ModeloCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\ModeloCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ModeloCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\ModeloCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:50:11.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "GenericComboResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\GenericComboResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\GenericComboResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\GenericComboResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\GenericComboResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:48:45.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "DerivacaoGradeResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\DerivacaoGradeResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\DerivacaoGradeResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\DerivacaoGradeResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\DerivacaoGradeResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:47:00.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "FuncaoGenerica.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\FuncaoGenerica.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\FuncaoGenerica.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\FuncaoGenerica.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\FuncaoGenerica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:43:12.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "BaseMultiSelected.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\BaseMultiSelected.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\BaseMultiSelected.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\BaseMultiSelected.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\BaseMultiSelected.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:49:26.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "NivelAtributoResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\NivelAtributoResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\NivelAtributoResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\NivelAtributoResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\NivelAtributoResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:48:24.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "SqliteTableInfoCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\SqliteTableInfoCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\SqliteTableInfoCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\SqliteTableInfoCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\SqliteTableInfoCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:15:39.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Models\\Enums.cs",
-              "RelativeDocumentMoniker": "Models\\Enums.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Models\\Enums.cs",
-              "RelativeToolTip": "Models\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:46:03.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Category.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Models\\Xamarin\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Xamarin\\Category.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Models\\Xamarin\\Category.cs",
-              "RelativeToolTip": "Models\\Xamarin\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:45:24.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "ICatalogoSortidoViewModel.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Services\\Contracts\\ICatalogoSortidoViewModel.cs",
-              "RelativeDocumentMoniker": "Services\\Contracts\\ICatalogoSortidoViewModel.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Services\\Contracts\\ICatalogoSortidoViewModel.cs",
-              "RelativeToolTip": "Services\\Contracts\\ICatalogoSortidoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:44:25.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\Entity.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\Entity.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\Entity.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:19:55.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "BuscarMarcaCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:26:56.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "TBT_REGRA_USUARIO.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_REGRA_USUARIO.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_REGRA_USUARIO.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_REGRA_USUARIO.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_REGRA_USUARIO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:28:25.511Z",
+              "WhenOpened": "2025-12-02T02:35:28.081Z",
               "EditorCaption": ""
             },
             {
@@ -1350,405 +136,164 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "IDeviceInformation.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Services\\Contracts\\IDeviceInformation.cs",
-              "RelativeDocumentMoniker": "Services\\Contracts\\IDeviceInformation.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Services\\Contracts\\IDeviceInformation.cs",
-              "RelativeToolTip": "Services\\Contracts\\IDeviceInformation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginPageModel.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\PageModels\\LoginPageModel.cs",
+              "RelativeDocumentMoniker": "PageModels\\LoginPageModel.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\PageModels\\LoginPageModel.cs",
+              "RelativeToolTip": "PageModels\\LoginPageModel.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAANoBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:23:11.314Z",
+              "WhenOpened": "2025-12-02T02:24:45.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "TBT_FOTO_RELATORIO.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T02:28:22.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "IMarcaRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IMarcaRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IMarcaRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IMarcaRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IMarcaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:30:43.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "SincronizacaoPageModel.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\Intermidia\\SincronizacaoPageModel.cs",
-              "RelativeDocumentMoniker": "PageModels\\Intermidia\\SincronizacaoPageModel.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\Intermidia\\SincronizacaoPageModel.cs",
-              "RelativeToolTip": "PageModels\\Intermidia\\SincronizacaoPageModel.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:52:34.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "BuscarFotoRelatorioCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarFotoRelatorioCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarFotoRelatorioCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarFotoRelatorioCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarFotoRelatorioCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:43:48.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "IParametroRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IParametroRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IParametroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:42:15.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 6,
               "Title": "IParametroSincronizacaoRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
               "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
               "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:40:54.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "AutenticarUsuarioCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:35:14.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "ICommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ICommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\ICommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\ICommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\ICommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:34:18.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "SelecaoMarcaCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\SelecaoMarcaCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\SelecaoMarcaCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\SelecaoMarcaCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\SelecaoMarcaCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:31:23.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\BaseViewModel.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\BaseViewModel.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:32:11.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Usuario\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\Intermidia\\Usuario\\LoginPage.xaml.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Usuario\\LoginPage.xaml.cs",
-              "RelativeToolTip": "Pages\\Intermidia\\Usuario\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:56:04.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Usuario\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\Intermidia\\Usuario\\LoginPage.xaml",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Usuario\\LoginPage.xaml",
-              "RelativeToolTip": "Pages\\Intermidia\\Usuario\\LoginPage.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-18T22:56:01.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "IInicializacaoBanco.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\IInicializacaoBanco.cs",
-              "RelativeDocumentMoniker": "Intermidia\\IInicializacaoBanco.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\IInicializacaoBanco.cs",
-              "RelativeToolTip": "Intermidia\\IInicializacaoBanco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:06:12.654Z",
+              "WhenOpened": "2025-12-02T02:39:48.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "ManagerQuery.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\ManagerQuery.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\ManagerQuery.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\ManagerQuery.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\ManagerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "TBT_CARRINHO.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:08:52.804Z",
+              "WhenOpened": "2025-12-02T02:36:39.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\AppShell.xaml.cs",
-              "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AgIAAMUBAAAAAAAAAAASwNgBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-02T02:23:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFotoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T01:54:05.987Z",
+              "WhenOpened": "2025-12-02T02:34:15.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T01:54:27.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "IdiomaCommandResult.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\IdiomaCommandResult.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\IdiomaCommandResult.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\IdiomaCommandResult.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\IdiomaCommandResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CarrinhoCommandResult.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T03:23:24.978Z",
+              "WhenOpened": "2025-12-02T02:33:28.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
-              "Title": "CategoryChart.xaml",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Controls\\CategoryChart.xaml",
-              "RelativeDocumentMoniker": "Pages\\Controls\\CategoryChart.xaml",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Controls\\CategoryChart.xaml",
-              "RelativeToolTip": "Pages\\Controls\\CategoryChart.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T01:58:14.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 94,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ServiceUtility.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Services\\Xamarim\\ServiceUtility.cs",
+              "RelativeDocumentMoniker": "Services\\Xamarim\\ServiceUtility.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Services\\Xamarim\\ServiceUtility.cs",
+              "RelativeToolTip": "Services\\Xamarim\\ServiceUtility.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAADwv/AAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T01:58:33.135Z",
+              "WhenOpened": "2025-12-02T02:24:55.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "InicializacaoBanco.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\InicializacaoBanco.cs",
-              "RelativeDocumentMoniker": "Intermidia\\InicializacaoBanco.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\InicializacaoBanco.cs",
-              "RelativeToolTip": "Intermidia\\InicializacaoBanco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:06:17.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "Table.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Messages\\Table.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Messages\\Table.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\Domain\\Messages\\Table.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Messages\\Table.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:17:42.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 92,
-              "Title": "ProjectCardView.xaml",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Controls\\ProjectCardView.xaml",
-              "RelativeDocumentMoniker": "Pages\\Controls\\ProjectCardView.xaml",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Controls\\ProjectCardView.xaml",
-              "RelativeToolTip": "Pages\\Controls\\ProjectCardView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T01:59:14.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T02:09:21.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
-              "Title": "IProjectTaskPageModel.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\IProjectTaskPageModel.cs",
-              "RelativeDocumentMoniker": "PageModels\\IProjectTaskPageModel.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\IProjectTaskPageModel.cs",
-              "RelativeToolTip": "PageModels\\IProjectTaskPageModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:54:59.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 93,
-              "Title": "SincronizacaoPage.xaml",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml",
-              "RelativeToolTip": "Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml",
-              "ViewState": "AgIAADcAAAAAAAAAAIAwwEsAAACwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-18T22:53:15.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "MainPageModel.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\MainPageModel.cs",
-              "RelativeDocumentMoniker": "PageModels\\MainPageModel.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\PageModels\\MainPageModel.cs",
-              "RelativeToolTip": "PageModels\\MainPageModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAEBlwCkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:52:03.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 98,
-              "Title": "SincronizacaoPage.xaml.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml.cs",
-              "RelativeToolTip": "Pages\\Intermidia\\Sincronizacao\\SincronizacaoPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T22:51:38.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 101,
-              "Title": "ProjectExtentions.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\ProjectExtentions.cs",
-              "RelativeDocumentMoniker": "Utilities\\ProjectExtentions.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utilities\\ProjectExtentions.cs",
-              "RelativeToolTip": "Utilities\\ProjectExtentions.cs",
+              "DocumentIndex": 14,
+              "Title": "RestApiHelper.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\RestApiHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\RestApiHelper.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\RestApiHelper.cs",
+              "RelativeToolTip": "Utilities\\RestApiHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:13:54.136Z",
+              "WhenOpened": "2025-12-02T02:23:06.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
-              "Title": "Settings.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utils\\Settings.cs",
-              "RelativeDocumentMoniker": "Utils\\Settings.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Utils\\Settings.cs",
-              "RelativeToolTip": "Utils\\Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:11:43.852Z",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-02T02:21:12.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
-              "Title": "ISqliteConnection.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\DataContext\\ISqliteConnection.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\DataContext\\ISqliteConnection.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\AplicativosMUAI\\Modelo_Migracao\\Intermidia\\Intermidia\\Infra\\DataContext\\ISqliteConnection.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\DataContext\\ISqliteConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:07:22.028Z",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T02:20:30.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Intermidia",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
+              "RelativeDocumentMoniker": "Intermidia.csproj",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
+              "RelativeToolTip": "Intermidia.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T02:14:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Intermidia",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
+              "RelativeDocumentMoniker": "Intermidia.csproj",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
+              "RelativeToolTip": "Intermidia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T02:13:26.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAANIAAAAAAAAAAAASwOUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-02T02:13:18.902Z",
               "EditorCaption": ""
             }
           ]

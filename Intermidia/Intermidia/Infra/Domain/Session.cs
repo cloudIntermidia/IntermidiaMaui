@@ -4,6 +4,9 @@ using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
 using Intermidia.Intermidia.Infra.Domain.Commands.Results;
 using Intermidia.Models.Xamarin;
 using Intermidia.Services.Contracts;
+using System;
+using System.Collections.Generic;
+using Intermidia.Intermidia.Infra.Domain.Entities;
 
 namespace Intermidia.Intermidia.Infra.Domain
 {
@@ -68,4 +71,55 @@ namespace Intermidia.Intermidia.Infra.Domain
         public static String FiltroSelecionado_Texto { get; set; }
 
     }
+
+    public sealed class Session_Generica
+    {
+
+        private static volatile Session_Generica instance;
+        private static object sync = new Object();
+
+        private Session_Generica() { }
+
+        public static Session_Generica Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    lock (sync)
+                    {
+                        if (instance == null)
+                        {
+                            instance = new Session_Generica();
+                        }
+                    }
+                }
+                return instance;
+            }
+
+        }
+
+        /// <summary>
+        /// Propriedade para o ID do usuario
+        /// </summary>
+        //public int UserID { get; set; }
+        //public Int32? NumPessoa_UsuarioCorrente { get; set; }
+        //public String Idioma_UsuarioCorrente { get; set; }
+        //public String UsuarioCorrente_AssinaturaEletronica { get; set; }
+        //public String UsuarioCorrente_Nome { get; set; }
+        //public SQLiteConnection oConexaoSqlLite;
+        //public String UsuarioCorrente_Login { get; set; }
+        //public String UsuarioCorrente_Senha { get; set; }
+        //public String UsuarioCorrente_Regra_199 { get; set; }
+
+        /// <summary>
+        /// LISTA DE REGRA DO REPRESENTANTE
+        /// </summary>
+        public List<TBT_REGRA_USUARIO_CLIENTE> LIST_REGRA_CLIENTE { get; set; }
+        public List<TBT_REGRA_USUARIO_MARCA> LIST_REGRA_MARCA { get; set; }
+        //public List<TBT_NIVEL_ATRIBUTO> LIST_EMPRESA_DISPONIVEL { get; set; }
+        public List<TBT_REGRA_USUARIO_PRODUTO> LIST_REGRA_PRODUTO { get; set; }
+
+    }
+
 }

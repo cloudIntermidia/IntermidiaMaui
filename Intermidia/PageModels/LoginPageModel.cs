@@ -10,6 +10,13 @@ using Intermidia.Services.Xamarim;
 using Prism.Navigation;
 using Prism.Services;
 using System.Windows.Input;
+using Prism.Navigation;
+using CommonServiceLocator;
+
+using Plugin.Permissions;
+using Plugin.Permissions.Abstractions;
+using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
+using Plugin.Connectivity;
 
 namespace Intermidia.PageModels
 {

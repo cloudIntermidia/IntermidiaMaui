@@ -1,4 +1,4 @@
-﻿namespace Intermidia.Pages.Intermidia.Usuario
+﻿namespace Intermidia.Pages.Mobilivendas.Usuario
 {
     public partial class LoginPage : ContentPage
     {

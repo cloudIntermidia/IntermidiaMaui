@@ -1,4 +1,4 @@
-﻿namespace Intermidia.Pages.Intermidia.Sincronizacao
+﻿namespace Intermidia.Pages.Mobilivendas.Sincronizacao
 {
     public partial class SincronizacaoPage : ContentPage
     {

@@ -1,5 +1,5 @@
-using System.Text.Json.Serialization;
 using CommunityToolkit.Maui.Core.Extensions;
+using System.Text.Json.Serialization;
 
 namespace Intermidia.Models
 {

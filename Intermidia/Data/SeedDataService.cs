@@ -1,6 +1,6 @@
-using System.Text.Json;
 using Intermidia.Models;
 using Microsoft.Extensions.Logging;
+using System.Text.Json;
 
 namespace Intermidia.Data
 {

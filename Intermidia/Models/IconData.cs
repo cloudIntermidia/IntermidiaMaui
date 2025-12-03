@@ -1,5 +1,3 @@
-using System;
-
 namespace Intermidia.Models
 {
     public class IconData

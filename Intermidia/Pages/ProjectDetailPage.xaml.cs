@@ -1,5 +1,3 @@
-using Intermidia.Models;
-
 namespace Intermidia.Pages
 {
     public partial class ProjectDetailPage : ContentPage

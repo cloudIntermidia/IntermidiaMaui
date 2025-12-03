@@ -1,7 +1,4 @@
-﻿using Intermidia.Models;
-using Intermidia.PageModels;
-
-namespace Intermidia.Pages
+﻿namespace Intermidia.Pages
 {
     public partial class MainPage : ContentPage
     {

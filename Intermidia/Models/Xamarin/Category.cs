@@ -1,5 +1,3 @@
-using System.Text.Json.Serialization;
-
 namespace Intermidia.Models.Xamarin
 {
     public class DataTemplateConfiguracao

@@ -2,11 +2,9 @@
 
 using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
 using Intermidia.Intermidia.Infra.Domain.Commands.Results;
+using Intermidia.Intermidia.Infra.Domain.Entities;
 using Intermidia.Models.Xamarin;
 using Intermidia.Services.Contracts;
-using System;
-using System.Collections.Generic;
-using Intermidia.Intermidia.Infra.Domain.Entities;
 
 namespace Intermidia.Intermidia.Infra.Domain
 {

@@ -1,5 +1,4 @@
 ﻿using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using System.Windows.Input;
 
 namespace Intermidia.Intermidia.Infra.Domain.Commands.Inputs
 {

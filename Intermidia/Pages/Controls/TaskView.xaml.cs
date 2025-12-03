@@ -1,5 +1,5 @@
-using System.Windows.Input;
 using Intermidia.Models;
+using System.Windows.Input;
 
 namespace Intermidia.Pages.Controls
 {

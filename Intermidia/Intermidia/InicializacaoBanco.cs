@@ -1,11 +1,10 @@
 ﻿using Intermidia.Intermidia.Infra;
 using Intermidia.Intermidia.Infra.DataContext;
+using Intermidia.Intermidia.Infra.Domain.Commands.Results;
+using Intermidia.Intermidia.Infra.Domain.Entities;
+using Intermidia.Intermidia.Infra.Domain.Messages;
 using SQLite;
 using System.Diagnostics;
-using Intermidia.Utilities;
-using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using Intermidia.Intermidia.Infra.Domain.Messages;
-using Intermidia.Intermidia.Infra.Domain.Entities;
 
 namespace Intermidia.Intermidia
 {
@@ -140,10 +139,12 @@ namespace Intermidia.Intermidia
 
 
                 ///SET URL DE AMBIENTE
-                if (Utils.Settings.Ambiente == "T") {
+                if (Utils.Settings.Ambiente == "T")
+                {
                     await ExecutarAlteracoesCore("UPDATE_AFV_PARAMETRO_SINC_TESTE");
                 }
-                else {
+                else
+                {
                     await ExecutarAlteracoesCore("UPDATE_AFV_PARAMETRO_SINC_PROD");
                 }
 
@@ -957,8 +958,8 @@ namespace Intermidia.Intermidia
             {
                 var indBloqueados = await _connection.QueryAsync<TBT_CLIENTE>("SELECT * FROM TBT_CLIENTE WHERE IndBloqueioPedido = 1");
 
-                if(indBloqueados.Any())
-                await _connection.ExecuteAsync("DELETE FROM TBT_CLIENTE WHERE IndBloqueioPedido = 1");
+                if (indBloqueados.Any())
+                    await _connection.ExecuteAsync("DELETE FROM TBT_CLIENTE WHERE IndBloqueioPedido = 1");
             }
             catch (Exception ex)
             {
@@ -966,8 +967,8 @@ namespace Intermidia.Intermidia
                 //Debug.WriteLine($"{ex.Message}");
                 //throw ex;
             }
-        }    
-       public async Task ExecutarAlteracoesCore(string scriptName)
+        }
+        public async Task ExecutarAlteracoesCore(string scriptName)
         {
             int rowError = 0;
             string sqlError = string.Empty;

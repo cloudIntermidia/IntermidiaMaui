@@ -3,16 +3,148 @@
   "WorkspaceRootPath": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\funcaogenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\funcaogenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\tabelaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\tabelaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_foto_produto_extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_foto_produto_extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_foto_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_foto_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_foto_relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_foto_relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criarpessoacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criarpessoacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\condicaopagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\condicaopagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\results\\tableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\tableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\criarfeedbackclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\criarfeedbackclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\carrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\carrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\results\\tecnologiacommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\tecnologiacommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\results\\tabelaprecoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\tabelaprecoresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscaritematendimentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscaritematendimentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarprecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscarprecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\results\\tabelaprecoindiceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\results\\tabelaprecoindiceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscargradesprodutocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscargradesprodutocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscaritemtabelaprecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\buscaritemtabelaprecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\itabelaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\itabelaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\nivelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\nivelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\inivelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\inivelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\icarrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\icarrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\utilities\\asynclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\asynclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\utilities\\asyncsemaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\asyncsemaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\utilities\\taskutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\taskutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\pagemodels\\loginpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:pagemodels\\loginpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\autenticarusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\commands\\inputs\\autenticarusuariocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\utilities\\generico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:utilities\\generico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\inputs\\buscarmarcacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,16 +157,16 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\iparametrosincronizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\entities\\tbt_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\entities\\tbt_carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\ifotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\ifotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\repositories\\interface\\ifotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia\\infra\\domain\\repositories\\interface\\ifotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia\\infra\\domain\\commands\\results\\carrinhocommandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +175,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\services\\xamarim\\serviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:services\\xamarim\\serviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|solutionrelative:intermidia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38CFF0DB-5252-4C5D-AF05-CDEC1EE77A90}|Intermidia.csproj|f:\\wssistemas_repo\\itm\\intermidiamaui\\intermidia\\intermidia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,56 +202,409 @@
       "DocumentGroups": [
         {
           "DockedWidth": 333,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutenticarUsuarioCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FuncaoGenerica.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\FuncaoGenerica.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\FuncaoGenerica.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\FuncaoGenerica.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\FuncaoGenerica.cs",
+              "ViewState": "AgIAAP8BAAAAAAAAAAAkwBICAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T02:49:21.667Z",
+              "WhenOpened": "2025-12-03T02:08:54.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BuscarMarcaCommand.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Title": "TBT_FOTO_PRODUTO_EXTRA.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_PRODUTO_EXTRA.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_PRODUTO_EXTRA.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_PRODUTO_EXTRA.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_PRODUTO_EXTRA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T02:46:58.377Z",
+              "WhenOpened": "2025-12-03T02:08:10.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt",
-              "ToolTip": "C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-02T02:45:49.221Z",
+              "Title": "TBT_FOTO_MARCA.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_MARCA.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_MARCA.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_MARCA.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_MARCA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:07:40.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TBT_FOTO_RELATORIO.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_FOTO_RELATORIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:07:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FotoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\FotoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\FotoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\FotoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\FotoRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA0wAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:06:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriarPessoaCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarPessoaCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarPessoaCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarPessoaCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarPessoaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:03:39.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Session.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Session.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Title": "TabelaPrecoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\TabelaPrecoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\TabelaPrecoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\TabelaPrecoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\TabelaPrecoRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T02:35:28.081Z",
+              "WhenOpened": "2025-12-03T01:53:09.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CondicaoPagamentoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\CondicaoPagamentoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\CondicaoPagamentoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\CondicaoPagamentoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\CondicaoPagamentoRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:04:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableInfo.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TableInfo.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\TableInfo.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TableInfo.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\TableInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:05:58.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CriarClienteCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:03:33.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CriarFeedbackClienteCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\CriarFeedbackClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:03:28.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:02:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBaseRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\DataBaseRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\DataBaseRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\DataBaseRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\DataBaseRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:46:22.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TecnologiaCommandResult.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TecnologiaCommandResult.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\TecnologiaCommandResult.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TecnologiaCommandResult.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\TecnologiaCommandResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:01:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TabelaPrecoResult.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:01:37.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuscarItemAtendimentoCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemAtendimentoCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemAtendimentoCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemAtendimentoCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemAtendimentoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:00:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BuscarPrecoCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarPrecoCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarPrecoCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarPrecoCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarPrecoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:00:00.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TabelaPrecoIndiceResult.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoIndiceResult.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoIndiceResult.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoIndiceResult.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Results\\TabelaPrecoIndiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:59:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuscarGradesProdutoCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesProdutoCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesProdutoCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesProdutoCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarGradesProdutoCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:58:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarrinhoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\CarrinhoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\CarrinhoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\CarrinhoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\CarrinhoRepository.cs",
+              "ViewState": "AgIAAA4CAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:45:28.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuscarItemTabelaPrecoCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemTabelaPrecoCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemTabelaPrecoCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemTabelaPrecoCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarItemTabelaPrecoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:58:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAUwJwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:54:49.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IProdutoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IProdutoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:54:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITabelaPrecoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\ITabelaPrecoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\ITabelaPrecoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\ITabelaPrecoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\ITabelaPrecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:52:48.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NivelRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\NivelRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\NivelRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\NivelRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\NivelRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:52:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "INivelRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\INivelRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\INivelRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\INivelRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\INivelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:51:53.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AsyncSemaphore.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\AsyncSemaphore.cs",
+              "RelativeDocumentMoniker": "Utilities\\AsyncSemaphore.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\AsyncSemaphore.cs",
+              "RelativeToolTip": "Utilities\\AsyncSemaphore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:49:33.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AsyncLock.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\AsyncLock.cs",
+              "RelativeDocumentMoniker": "Utilities\\AsyncLock.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\AsyncLock.cs",
+              "RelativeToolTip": "Utilities\\AsyncLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:48:40.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IUsuarioRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:43:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICarrinhoRepository.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\ICarrinhoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\ICarrinhoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\ICarrinhoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\ICarrinhoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:44:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Generico.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\Generico.cs",
+              "RelativeDocumentMoniker": "Utilities\\Generico.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\Generico.cs",
+              "RelativeToolTip": "Utilities\\Generico.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswEYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:37:49.148Z",
               "EditorCaption": ""
             },
             {
@@ -136,46 +617,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 30,
+              "Title": "TaskUtilities.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\TaskUtilities.cs",
+              "RelativeDocumentMoniker": "Utilities\\TaskUtilities.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\TaskUtilities.cs",
+              "RelativeToolTip": "Utilities\\TaskUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:33:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Session.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Session.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Session.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:35:28.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "LoginPageModel.cs",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\PageModels\\LoginPageModel.cs",
               "RelativeDocumentMoniker": "PageModels\\LoginPageModel.cs",
               "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\PageModels\\LoginPageModel.cs",
               "RelativeToolTip": "PageModels\\LoginPageModel.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAAANoBAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFEBAAAAAAAAAADwv10BAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T02:24:45.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 36,
+              "Title": "BuscarMarcaCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\BuscarMarcaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:46:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutenticarUsuarioCommand.cs",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Commands\\Inputs\\AutenticarUsuarioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:49:21.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "IParametroSincronizacaoRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IParametroSincronizacaoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IParametroSincronizacaoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IParametroSincronizacaoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IParametroSincronizacaoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IParametroSincronizacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T02:39:48.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 40,
               "Title": "TBT_CARRINHO.cs",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
               "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
               "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
               "RelativeToolTip": "Intermidia\\Infra\\Domain\\Entities\\TBT_CARRINHO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T02:36:39.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 38,
               "Title": "Xamarin.Android.Common.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
@@ -186,20 +719,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 34,
+              "Title": "Intermidia",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
+              "RelativeDocumentMoniker": "Intermidia.csproj",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
+              "RelativeToolTip": "Intermidia.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T02:14:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt",
+              "ToolTip": "C:\\Users\\wagner.santos\\.nuget\\packages\\plugin.permissions\\6.0.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-02T02:45:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "IFotoRepository.cs",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
-              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
-              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\IFotoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IFotoRepository.cs",
+              "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IFotoRepository.cs",
+              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Repositories\\Interface\\IFotoRepository.cs",
+              "RelativeToolTip": "Intermidia\\Infra\\Domain\\Repositories\\Interface\\IFotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T02:34:15.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 42,
               "Title": "CarrinhoCommandResult.cs",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
               "RelativeDocumentMoniker": "Intermidia\\Infra\\Domain\\Commands\\Results\\CarrinhoCommandResult.cs",
@@ -212,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 43,
               "Title": "ServiceUtility.cs",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Services\\Xamarim\\ServiceUtility.cs",
               "RelativeDocumentMoniker": "Services\\Xamarim\\ServiceUtility.cs",
@@ -225,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 46,
               "Title": "RestApiHelper.cs",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Utilities\\RestApiHelper.cs",
               "RelativeDocumentMoniker": "Utilities\\RestApiHelper.cs",
@@ -238,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 47,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -249,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 48,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -262,20 +818,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Intermidia",
-              "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
-              "RelativeDocumentMoniker": "Intermidia.csproj",
-              "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
-              "RelativeToolTip": "Intermidia.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-02T02:14:19.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Intermidia",
+              "DocumentIndex": 44,
+              "Title": "Intermidia.csproj",
               "DocumentMoniker": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
               "RelativeDocumentMoniker": "Intermidia.csproj",
               "ToolTip": "F:\\WSSistemas_Repo\\ITM\\IntermidiaMaui\\Intermidia\\Intermidia.csproj",
@@ -287,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 45,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intermidia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4e9a8d591cbdc629574d1a54d5e1617c7ac6f7b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1314d44c165ecdd9004d801128398f20bb6e2a56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intermidia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intermidia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

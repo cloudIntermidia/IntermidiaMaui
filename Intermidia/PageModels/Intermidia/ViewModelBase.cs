@@ -24,7 +24,7 @@ namespace Intermidia.PageModels
 
         public string AppName
         {
-           // get { return App.Current.Properties["AppName"] as string; }
+            // get { return App.Current.Properties["AppName"] as string; }
             get { return ""; }
         }
 

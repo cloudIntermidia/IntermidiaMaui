@@ -1,7 +1,7 @@
 using Intermidia.Intermidia.Infra.Domain;
 using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
 using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using Intermidia.Intermidia.Infra.Domain.Repositories;
+using Intermidia.Intermidia.Infra.Domain.Repositories.Interface;
 using Newtonsoft.Json;
 
 namespace Intermidia.Services.Xamarim

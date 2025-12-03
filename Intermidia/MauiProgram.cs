@@ -1,5 +1,4 @@
 ﻿using CommunityToolkit.Maui;
-using Intermidia.Services.Xamarim;
 using Microsoft.Extensions.Logging;
 using Syncfusion.Maui.Toolkit.Hosting;
 
@@ -17,7 +16,7 @@ namespace Intermidia
                 .ConfigureMauiHandlers(handlers =>
                 {
 #if IOS || MACCATALYST
-    				handlers.AddHandler<Microsoft.Maui.Controls.CollectionView, Microsoft.Maui.Controls.Handlers.Items2.CollectionViewHandler2>();
+                    handlers.AddHandler<Microsoft.Maui.Controls.CollectionView, Microsoft.Maui.Controls.Handlers.Items2.CollectionViewHandler2>();
 #endif
                 })
                 .ConfigureFonts(fonts =>
@@ -29,8 +28,8 @@ namespace Intermidia
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
-    		builder.Services.AddLogging(configure => configure.AddDebug());
+            builder.Logging.AddDebug();
+            builder.Services.AddLogging(configure => configure.AddDebug());
 #endif
 
             builder.Services.AddSingleton<ProjectRepository>();

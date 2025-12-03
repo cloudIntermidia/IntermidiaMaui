@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Intermidia.Intermidia.Infra.Domain.Entities
+﻿namespace Intermidia.Intermidia.Infra.Domain.Entities
 {
     public class TBT_REGRA_USUARIO_CLIENTE : Entity
     {

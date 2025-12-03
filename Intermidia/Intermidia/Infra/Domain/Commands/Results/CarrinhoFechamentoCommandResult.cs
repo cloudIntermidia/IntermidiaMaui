@@ -1,4 +1,4 @@
-﻿using Intermidia.Intermidia.Infra.Domain.Repositories;
+﻿using Intermidia.Intermidia.Infra.Domain.Repositories.Interface;
 
 namespace Intermidia.Intermidia.Infra.Domain.Commands.Results
 {

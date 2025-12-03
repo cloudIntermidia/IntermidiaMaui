@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-
-namespace Intermidia.Intermidia
+﻿namespace Intermidia.Intermidia
 {
     public interface IInicializacaoBanco : IDisposable
     {

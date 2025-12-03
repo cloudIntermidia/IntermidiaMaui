@@ -1,6 +1,4 @@
-﻿using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-
-namespace Intermidia.Intermidia.Infra.Domain.Commands.Inputs
+﻿namespace Intermidia.Intermidia.Infra.Domain.Commands.Inputs
 {
     public class RelacionarClienteCommand
     {

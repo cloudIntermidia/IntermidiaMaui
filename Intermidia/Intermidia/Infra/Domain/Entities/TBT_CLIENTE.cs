@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace Intermidia.Intermidia.Infra.Domain.Entities
+﻿namespace Intermidia.Intermidia.Infra.Domain.Entities
 {
-    public  class TBT_CLIENTE : Entity
+    public class TBT_CLIENTE : Entity
     {
         public string CodPessoaCliente { get; set; }
         public string RazaoSocial { get; set; }
@@ -29,15 +27,15 @@ namespace Intermidia.Intermidia.Infra.Domain.Entities
 
         public DateTime? Datafundacao { get; set; }
         public string Emailcobranca { get; set; }
-        public string  EmailComercial { get; set; }
-        public string  RamoAtividade { get; set; }
+        public string EmailComercial { get; set; }
+        public string RamoAtividade { get; set; }
         public string Suframa { get; set; }
         public string ClasificacaoComercial { get; set; }
-        public string  Parecer { get; set; }
+        public string Parecer { get; set; }
         public string Grupo { get; set; }
         public string Prazo { get; set; }
         public string Banco { get; set; }
-        public string  Agencia { get; set; }
+        public string Agencia { get; set; }
         public string Conta { get; set; }
 
         public DateTime? ValidaSuframa { get; set; }
@@ -59,7 +57,7 @@ namespace Intermidia.Intermidia.Infra.Domain.Entities
         public string EmailSocio { get; set; }
         public string NomeComprador { get; set; }
         public string SobrenomeComprador { get; set; }
-        public string CelularComprador { get; set; } 
+        public string CelularComprador { get; set; }
         public string EmailComprador { get; set; }
         public DateTime? DataAtualizacaoFinanceiro { get; set; }
     }

@@ -1,5 +1,5 @@
-using System.Diagnostics.CodeAnalysis;
 using Intermidia.Models;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Intermidia.Utilities
 {

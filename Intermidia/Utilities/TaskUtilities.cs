@@ -1,5 +1,3 @@
-using Intermidia.Services;
-
 namespace Intermidia.Utilities
 {
     /// <summary>

@@ -1,5 +1,4 @@
-﻿using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using Intermidia.Intermidia.Infra.Domain.Entities;
+﻿using Intermidia.Intermidia.Infra.Domain.Entities;
 
 namespace Intermidia.Intermidia.Infra.Domain.Commands.Inputs
 {

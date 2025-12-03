@@ -1,5 +1,5 @@
-using System.Text.Json.Serialization;
 using Intermidia.Models;
+using System.Text.Json.Serialization;
 
 [JsonSerializable(typeof(Project))]
 [JsonSerializable(typeof(ProjectTask))]

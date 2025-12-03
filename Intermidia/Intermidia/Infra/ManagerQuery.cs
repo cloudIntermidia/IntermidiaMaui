@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
+﻿using System.Reflection;
 
 namespace Intermidia.Intermidia.Infra
 {
@@ -103,7 +100,7 @@ namespace Intermidia.Intermidia.Infra
             columns = columns.Substring(0, columns.Length - 1);
             where = where.Substring(0, where.Length - 4);
             string sql = $"UPDATE {tabela} SET {columns}  WHERE {where}";
-            return  FormatScriptFromString(sql, "CRUD", parameters, tabela);
+            return FormatScriptFromString(sql, "CRUD", parameters, tabela);
         }
 
         public static string MakeInsertOrReplace(List<string> campos, string tabela, object parameters)

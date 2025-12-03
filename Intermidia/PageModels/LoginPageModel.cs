@@ -1,22 +1,21 @@
 using Acr.UserDialogs;
+using CommonServiceLocator;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Intermidia.Intermidia;
 using Intermidia.Intermidia.Infra.Domain;
+using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
 using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using Intermidia.Intermidia.Infra.Domain.Repositories;
+using Intermidia.Intermidia.Infra.Domain.Repositories.Interface;
 using Intermidia.Models;
 using Intermidia.Services.Xamarim;
+using Plugin.Connectivity;
+using Plugin.Permissions;
+using Plugin.Permissions.Abstractions;
 using Prism.Navigation;
 using Prism.Services;
 using System.Windows.Input;
-using Prism.Navigation;
-using CommonServiceLocator;
-
-using Plugin.Permissions;
-using Plugin.Permissions.Abstractions;
-using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
-using Plugin.Connectivity;
+using AutenticarUsuarioCommand = Intermidia.Intermidia.Infra.Domain.Commands.Inputs.AutenticarUsuarioCommand;
 
 namespace Intermidia.PageModels
 {
@@ -558,8 +557,6 @@ namespace Intermidia.PageModels
             await SessionInit(user);
             try
             {
-                //string telainicial = string.IsNullOrEmpty(Session.TELA_INICIAL) ? "CatalogoPage" : Session.TELA_INICIAL;
-                //await NavigationService.NavigateAsync(new System.Uri($"{Session.URI_BUNDLE}/{telainicial}", System.UriKind.Absolute), parametros);
                 await new FuncaoGenerica_Direcionamento().Acessar(FuncaoGenerica_Direcionamento.Link.Catalogo, NavigationService, parametros);
             }
             catch (Exception e)

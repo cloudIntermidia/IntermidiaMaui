@@ -1,7 +1,4 @@
-﻿using Intermidia.Models;
-using Intermidia.PageModels;
-
-namespace Intermidia.Pages.Intermidia.Sincronizacao
+﻿namespace Intermidia.Pages.Intermidia.Sincronizacao
 {
     public partial class SincronizacaoPage : ContentPage
     {

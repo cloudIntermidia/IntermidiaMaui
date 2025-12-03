@@ -16,6 +16,7 @@
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net9.0-android' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)xamarin.androidx.migration\1.0.10\buildTransitive\monoandroid120\Xamarin.AndroidX.Migration.props" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.migration\1.0.10\buildTransitive\monoandroid120\Xamarin.AndroidX.Migration.props')" />
     <Import Project="$(NuGetPackageRoot)syncfusion.maui.toolkit\1.0.5\buildTransitive\Syncfusion.Maui.Toolkit.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.maui.toolkit\1.0.5\buildTransitive\Syncfusion.Maui.Toolkit.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.net.illink.tasks\9.0.10\build\Microsoft.NET.ILLink.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.illink.tasks\9.0.10\build\Microsoft.NET.ILLink.Tasks.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.111\buildTransitive\Microsoft.Maui.Resizetizer.props" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.resizetizer\9.0.111\buildTransitive\Microsoft.Maui.Resizetizer.props')" />

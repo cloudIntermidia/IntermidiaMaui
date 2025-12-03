@@ -1,10 +1,5 @@
 ﻿//using Flunt.Notifications;
 
-using Intermidia.Intermidia.Infra.Domain.Commands.Inputs;
-using Intermidia.Intermidia.Infra.Domain.Commands.Results;
-using Intermidia.Models.Xamarin;
-using Intermidia.Services.Contracts;
-
 namespace Intermidia.Intermidia.Infra.Domain
 {
     public static class ParametrosSistema
